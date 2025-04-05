@@ -12,7 +12,7 @@ This project captures text from the laptop screen using OCR and sends it to an A
 ## Usage
 
 1. Upload the Arduino sketch.
-2. Run `gui1.py` on your laptop.
+2. Run `app.py` on your laptop.
 3. It captures screen text and sends Braille patterns to the solenoids.
 
 ## Python Dependencies
